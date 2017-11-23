@@ -23,12 +23,12 @@ namespace b10302068_b10302060_b10302066
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
             Class1 c1 = new Class1();
             Class2 c2 = new Class2();
-            int n = c1.GetHashCode();
-            label1.Text = n.ToString();
+            int n = c1.GetRandomNumber();
+            label2.Text = n.ToString();
             for(int i=0; i<=n;++i)
             {
                 if(c2.IsPrime(i))
@@ -42,7 +42,7 @@ namespace b10302068_b10302060_b10302066
     
 private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            label1.Text = comboBox1.SelectedIndex.ToString();
+            label2.Text = comboBox1.SelectedIndex.ToString();
         }
 
         private void label1_Click(object sender, EventArgs e)

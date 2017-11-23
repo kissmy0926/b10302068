@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace b10302068_b10302060_b10302066
+namespace WindowsFormsApplication1
 {
     class Class1
     {
-        internal int GetRandomNumber()
+        public int GetNumber()
         {
-            throw new NotImplementedException();
+            return 0;
         }
     }
 }

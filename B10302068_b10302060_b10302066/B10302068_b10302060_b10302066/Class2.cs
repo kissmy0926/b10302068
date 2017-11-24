@@ -4,13 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace B10302068_b10302060_b10302066
+namespace WindowsFormsApp1
 {
     class Class2
     {
-        internal bool IsPrime(int i)
+        public bool IsPrime(int n)
         {
-            throw new NotImplementedException();
+
+
+            if (n < 2)
+            {
+                return false;
+            }
+
+            for (int i = 2; i < n; ++i)
+            {
+                if (n % i == 0)
+                {
+                    return false;
+                }
+            }
+
+            return true;
+
         }
     }
+
 }
+

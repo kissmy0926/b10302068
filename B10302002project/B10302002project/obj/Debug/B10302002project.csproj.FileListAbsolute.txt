@@ -1,0 +1,31 @@
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\bin\Debug\B10302002project.exe.config
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\bin\Debug\B10302002project.exe
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\bin\Debug\B10302002project.pdb
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\obj\Debug\B10302002project.csprojResolveAssemblyReference.cache
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\obj\Debug\B10302002project.Form1.resources
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\obj\Debug\B10302002project.Properties.Resources.resources
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\obj\Debug\B10302002project.csproj.GenerateResource.Cache
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\obj\Debug\B10302002project.exe
+c:\users\c4-l10-008\documents\visual studio 2013\Projects\B10302002project\B10302002project\obj\Debug\B10302002project.pdb
+G:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\bin\Debug\B10302002project.exe.config
+G:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.exe
+G:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.pdb
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\bin\Debug\B10302002project.exe.config
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.exe
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.pdb
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\bin\Debug\B10302002project.exe
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\bin\Debug\B10302002project.pdb
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.csprojResolveAssemblyReference.cache
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.Form1.resources
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.Properties.Resources.resources
+E:\軟工\軟體工程-大富翁\B10302002project\B10302002project\B10302002project\obj\Debug\B10302002project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\bin\Debug\B10302002project.exe.config
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\bin\Debug\B10302002project.exe
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\bin\Debug\B10302002project.pdb
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\obj\Debug\B10302002project.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\obj\Debug\B10302002project.Form1.resources
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\obj\Debug\B10302002project.Properties.Resources.resources
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\obj\Debug\B10302002project.csproj.GenerateResource.cache
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\obj\Debug\B10302002project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\obj\Debug\B10302002project.exe
+C:\Users\User\Documents\Desktop\B10302002project\B10302002project\obj\Debug\B10302002project.pdb
